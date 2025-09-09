@@ -1,6 +1,6 @@
 # 👋 Hey Koofte
 
-![Profile Banner](https://img.shields.io/badge/Status-Mental Crysis-red)  
+![Profile Banner](https://img.shields.io/badge/Status-Mental%20Crysis-red)  
 
 ---
 
