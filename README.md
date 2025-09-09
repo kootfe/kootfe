@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hey Koofte
 
-<!--
-**kootfe/kootfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://img.shields.io/badge/Status-Mental Crysis-red)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- C programmer
+- Living in my own code univers
+- Student | 16 y.o
+
+---
+
+## 💻 My Skills
+- **Languages:** C (main obsession), JavaScript, Java, Assembly (learning)  
+- **Web:** HTML, CSS, basic JS projects  
+- **Systems:** Arch(I Use Arch BTW) + Win10
+- **Tools:** `gcc`, `make`, `nvim` 
+
+---
+
+## 📫 Reach Me
+- [GitHub](https://github.com/kootfe)  
+- [Portfolio / Blog](http://kootfe.github.io/)
+
+---
+
+## 🌟 Fun Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=kootfe&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kootfe&layout=compact&theme=radical) 
