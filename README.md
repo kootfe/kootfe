@@ -12,7 +12,7 @@ A C dev who does a bit of everything and masters logging
 <a href="https://discord.com/invite/Qc7Dgm4KQ5" target="_blank"><img height="32" src="https://cdn.simpleicons.org/discord" alt="DEV"></a>
 
 ## Tech Stack
-<p align="left">
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>&nbsp;
